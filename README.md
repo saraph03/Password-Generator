@@ -1,5 +1,5 @@
 # Password-Generator (Python)
-Creating a password-generating system in python. 
+Creating a random password-generating code in python. 
 
 Rules:
 - 8 characters long
