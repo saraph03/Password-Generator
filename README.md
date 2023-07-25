@@ -1,2 +1,2 @@
 # Password-Generator
-Creating a system which randomly generates a password. 
+Creating a password-generating system in python. 
