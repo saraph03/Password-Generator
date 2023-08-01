@@ -1,8 +1,12 @@
 # Password-Generator (Python)
 Creating a random password-generating code in Python. 
-Using the api.py file, you can run Flask and get a local host link in which you write /generate-password after the link to work the code. 
+
+Using the api.py file, you can run Flask and get a local host link in which you write /generate-password after the link to work the code.
+
 For Example, this would be written in your search bar: http://127.0.0.1:5000/generate-password
+
 After this, you would need to enter a digit used as the password length in the terminal of wherever you are running the code from. 
+
 It should then display your desired password. 
 
 Rules:
